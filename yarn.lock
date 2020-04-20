@@ -9670,10 +9670,10 @@ schema-utils@^2.6.5:
     ajv "^6.12.0"
     ajv-keywords "^3.4.1"
 
-scripty@1.9.1:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/scripty/-/scripty-1.9.1.tgz#538d12ad816b564584b4b787800f6567bb97c84a"
-  integrity sha512-zsQlz4mxQz7EqvoWTobcNsVS8uv1nrk5IME62QHDSwazxclNUqjGdMF4ZI7nWgKSBFQFWCKGwRFJjfzSJj9ERQ==
+scripty@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/scripty/-/scripty-2.0.0.tgz#25761bb2e237a7563f705d87357db07791d38459"
+  integrity sha512-vbd4FPeuNwYNGtRtYa1wDZLPCx5PpW6VrldCEiBGqPz7Je1xZOgNvVPD2axymvqNghBIRiXxAU+JwYrOzvuLJg==
   dependencies:
     async "^2.6.1"
     glob "^7.0.3"
