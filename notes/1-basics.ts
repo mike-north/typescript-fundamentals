@@ -146,7 +146,7 @@
  * (15) Intersection types
  */
 // let otherContactInfo: HasEmail & HasPhoneNumber = {
-//   // we _must_ initialize it to a shape that's asssignable to HasEmail _and_ HasPhoneNumber
+//   // we _must_ initialize it to a shape that's assignable to HasEmail _and_ HasPhoneNumber
 //   name: "Mike",
 //   email: "mike@example.com",
 //   phone: 3215551212
