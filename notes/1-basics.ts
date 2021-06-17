@@ -113,7 +113,7 @@
 //== UNION & INTERSECTION ==//
 
 /**
- * (14) Union types
+ * (14) Intersection types
  * Sometimes we have a type that can be one of several things
  */
 
@@ -143,7 +143,7 @@
 // contactInfo.name; // NOTE: we can only access the .name property  (the stuff HasPhoneNumber and HasEmail have in common)
 
 /**
- * (15) Intersection types
+ * (15) Union types
  */
 // let otherContactInfo: HasEmail & HasPhoneNumber = {
 //   // we _must_ initialize it to a shape that's asssignable to HasEmail _and_ HasPhoneNumber
