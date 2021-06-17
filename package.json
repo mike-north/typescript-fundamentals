@@ -20,7 +20,7 @@
     "dtslint": "0.9.9",
     "eslint": "6.8.0",
     "husky": "3.1.0",
-    "lerna": "3.22.1",
+    "lerna": "4.0.0",
     "mocha": "6.2.3",
     "rimraf": "3.0.2",
     "semantic-release": "15.14.0",
