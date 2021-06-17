@@ -19,5 +19,8 @@
     "build": "tsc src/index.ts --outDir lib --types node --module commonjs --target ES2017",
     "test": "echo 'No tests'"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "typescript": "^3.7.5"
+  }
 }
