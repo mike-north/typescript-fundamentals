@@ -29,7 +29,7 @@ import { HasEmail } from "./1-basics";
  * Unknowns are good for "private" values that we don't want to expose through a public API.
  * They can still hold any value, we just must narrow the type before we're able to use it.
  *
- * We'll do htis with a type guard.
+ * We'll do this with a type guard.
  */
 
 // myUnknown.split(", "); // 🚨 ERROR
